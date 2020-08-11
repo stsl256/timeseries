@@ -1,2 +1,2 @@
 # timeseries
-Timeseries practice just for fun!
+Timeseries 2019-2020 intern sketches.
